@@ -8,7 +8,13 @@
 
 ***
 
-5 AUG, 2019 - CP Guide
+### 8 AUG, 2019 - CP Guide
+- Added info on talisman combination overlaps
+- Added info on talisman CP system (wrt name colors)
+
+***
+
+### 5 AUG, 2019 - CP Guide
 
 - Added info on human equipment.
 - Added more info on talisman system.
